@@ -1,5 +1,5 @@
-from Publisher import Publisher
-from Subscriber import Subscriber
+from publisher import Publisher
+from subscriber import Subscriber
 
 pub = Publisher()
 
